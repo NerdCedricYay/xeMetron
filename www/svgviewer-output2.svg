@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 210 297"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+
+  <defs id="defs2" />
+
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+     
+    <!-- Top Mouse Graphic -->
+    <g
+       style="fill:#912836"
+       id="top_mouse"
+       transform="matrix(0.10388172,0,0,0.10388172,-0.05102007,-10.849506)">
+      <path
+         d="m 49.893,443.325 c -0.948,1.185 -1.71,2.069 -2.076,2.343 -15.98,12.01 -22.065,1.155 -37.096,13.068 -2.432,1.927 -5.852,12.863 -8.728,23.611 -3.051,11.403 -4.03,22.597 7.774,22.597 h 0.954 26.326 350.228 21.397 65.34 c 6.314,0 12.544,-1.516 18.125,-4.469 209.43,-110.773 89.53,-238.558 47.381,-299.686 -32.105,-46.56 -13.294,-93.732 -13.294,-93.732 0,0 -73.648,25.148 16.166,141.399 58.492,75.709 25.561,129.222 -4.522,157.342 3.039,-11.386 4.623,-23.367 4.517,-35.737 -0.632,-73.954 -61.864,-132.955 -135.819,-132.55 -46.553,0.254 -89.093,8.936 -127.575,23.024 -154.17477,60.41725 -89.06052,8.38817 -170.604,113.676 -23.825,24.23 -43.343,48.33 -58.494,69.114 z"
+         style="fill:#912836;fill-opacity:1" />
+      <path
+         d="m 133.414,350.262 h 57.461 c 31.426,0 59.147,-21.383 66.257,-51.995 2.436,-10.488 2.048,-20.151 -0.436,-28.786 -7.871,-27.356 -36.847,-44.365 -64.227,-44.365 -13.197,0 -26.016,3.947 -35.929,12.589 -46.699,40.712 -29.72,112.557 -29.72,112.557 z"
+         style="fill:#912836;fill-opacity:1" />
+    </g>
+
+    <!-- Top Text -->
+    <text
+       xml:space="preserve"
+       style="font-size:52.9167px;fill:#912836;stroke-width:0.264583"
+       x="63.352608"
+       y="40.819031"
+       id="top_text">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.9167px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';stroke-width:0.264583"
+         x="63.352608"
+         y="40.819031">X<tspan style="font-size:45.8611px">e</tspan>M<tspan style="font-size:45.8611px">etron</tspan></tspan>
+    </text>
+
+  </g>
+</svg>
